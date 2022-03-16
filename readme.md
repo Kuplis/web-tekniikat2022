@@ -1,1 +1,1 @@
-This will include all the assignments for the Web-tekniikat course.
+This will contain all the assignments for the Web-tekniikat course.
