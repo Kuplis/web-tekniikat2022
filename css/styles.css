@@ -1,0 +1,67 @@
+.navbar{
+    text-align: end;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 30px;
+    border-bottom: 1px solid gray;
+}
+
+body {
+    background-color: lightblue;
+    margin-bottom: 50px;
+}
+
+div {
+    text-align: center;
+}
+
+#api {
+    background-color: rgb(141, 241, 203);
+    color: rgb(5, 5, 129);
+    text-align: center;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    border: 2px solid navy;
+
+}
+#refresh.btn{
+    margin-bottom: 20px;
+    border: 2px solid navy;
+    border-color: blue;
+    background-color: lightblue;
+    font-weight: bold;
+}
+
+.accorcdion {
+    margin-top: 10px;
+}
+
+.picture {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+/* multiplication*/
+h1 { 
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#buttons {
+    display: inline-flex;
+    justify-content: center;
+}
+
+#start, #next, #checkAnswer {
+    display: flex;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+
+#fireworks {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    max-width: 100%;
+    height: auto;
+  }
